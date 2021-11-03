@@ -1,0 +1,10 @@
+node_modules
+.idea
+.env
+client/node_modules
+client/build
+parsers/sites/*
+parsers/sites-map.js
+node_parser.sql
+stevian-parser.sql
+yarn.lock
